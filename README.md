@@ -15,7 +15,9 @@
   <img src="https://github.com/Pepyn0/Pepyn0/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </div>
 
-
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=everyting123&label=Stat&color=2&icon=0&pretty=false" />
+</a>
 
 <!---
 khudoyshukur123/khudoyshukur123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
